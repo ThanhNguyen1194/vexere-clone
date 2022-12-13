@@ -12,14 +12,14 @@ module.exports = {
       fromStation: {
         type: Sequelize.INTEGER,
         references: {
-          model: "stations",
+          model: "Stations",
           key: "id"
         }
       },
       toStation: {
         type: Sequelize.INTEGER,
         references: {
-          model: "stations",
+          model: "Stations",
           key: "id"
         }
       },

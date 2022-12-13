@@ -12,7 +12,7 @@ module.exports = {
      *   isBetaMember: false
      * }], {});
     */
-    await queryInterface.bulkInsert('tickets',
+    await queryInterface.bulkInsert('Tickets',
       [
         {
           user_id: 1,

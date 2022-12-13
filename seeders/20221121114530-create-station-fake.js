@@ -12,7 +12,7 @@ module.exports = {
      *   isBetaMember: false
      * }], {});
     */
-    await queryInterface.bulkInsert('stations',
+    await queryInterface.bulkInsert('Stations',
       [
         {
           name: "bến xe Long Xuyên",

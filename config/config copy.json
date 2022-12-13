@@ -1,9 +1,14 @@
 {
   "development": {
-    "username": "root",
+    // "username": "root",
+    // "password": "Th@nh574869123",
+    // "database": "vexere_db",
+    // "host": "127.0.0.1",
+    // "dialect": "mysql"
+    "username": "vexere_db",
     "password": "Th@nh574869123",
     "database": "vexere_db",
-    "host": "127.0.0.1",
+    "host": "34.124.163.247",
     "dialect": "mysql"
   },
   "test": {

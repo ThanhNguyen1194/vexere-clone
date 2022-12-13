@@ -12,7 +12,7 @@ module.exports = {
      *   isBetaMember: false
      * }], {});
     */
-    await queryInterface.bulkInsert('users',
+    await queryInterface.bulkInsert('Users',
       [
         {
           name: "Nguyễn Hoài Thanh",
