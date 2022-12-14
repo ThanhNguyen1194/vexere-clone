@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "vexere_db",
-    "password": "Th@nh574869123",
-    "database": "vexere_db",
-    "host": "34.124.163.247",
+    "username": "freedb_thanhnguyen",
+    "password": "Q7$g&cyXK8Ge5&d",
+    "database": "freedb_vexere_db",
+    "host": "sql.freedb.tech",
     "dialect": "mysql"
   },
   "test": {
